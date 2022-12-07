@@ -1,0 +1,90 @@
+Parameter,Description,EVR,DCF,PLA,PAD,HAB
+PbH1,Proportion of host community made up of small mammals (larvae),0.922 ; 0.922,0.942 ; 0.942,0.913 ; 0.913,0.933 ; 0.933,0.92 ; 0.92
+PbH2,Proportion of host community made up of birds(larvae),0.045 ; 0.045,0.03 ; 0.03,0.041 ; 0.041,0.04 ; 0.04,0.046 ; 0.046
+PbH3,Proportion of host community made up of primates(larvae),0.009 ; 0.009,0.008 ; 0.008,0.004 ; 0.004,0.003 ; 0.003,0.01 ; 0.01
+PbH4,Proportion of host community made up of cattle(larvae),0.024 ; 0.024,0.02 ; 0.02,0.043 ; 0.043,0.024 ; 0.024,0.024 ; 0.024
+PbLH1,Proportion of host community made up of small mammals (larvae),0.922 ; 0.922,0.942 ; 0.942,0.913 ; 0.913,0.933 ; 0.933,0.92 ; 0.92
+PbLH2,Proportion of host community made up of birds(larvae),0.045 ; 0.045,0.03 ; 0.03,0.041 ; 0.041,0.04 ; 0.04,0.046 ; 0.046
+PbLH3,Proportion of host community made up of primates(larvae),0.009 ; 0.009,0.008 ; 0.008,0.004 ; 0.004,0.003 ; 0.003,0.01 ; 0.01
+PbLH4,Proportion of host community made up of cattle(larvae),0.024 ; 0.024,0.02 ; 0.02,0.043 ; 0.043,0.024 ; 0.024,0.024 ; 0.024
+PbNH1,Proportion of host community made up of small mammals(nymphs),0.922 ; 0.922,0.942 ; 0.942,0.913 ; 0.913,0.933 ; 0.933,0.92 ; 0.92
+PbNH2,Proportion of host community made up of birds(nymphs),0.045 ; 0.045,0.03 ; 0.03,0.041 ; 0.041,0.04 ; 0.04,0.046 ; 0.046
+PbNH3,Proportion of host community made up of primates(nymphs),0.009 ; 0.009,0.008 ; 0.008,0.004 ; 0.004,0.003 ; 0.003,0.01 ; 0.01
+PbNH4,Proportion of host community made up of cattle(nymphs),0.024 ; 0.024,0.02 ; 0.02,0.043 ; 0.043,0.024 ; 0.024,0.024 ; 0.024
+PbAH1,Proportion of host community made up of small mammals (adults),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+PbAH2,Proportion of host community made up of birds (adults),0.045 ; 0.045,0.03 ; 0.03,0.041 ; 0.041,0.04 ; 0.04,0.046 ; 0.046
+PbAH3,Proportion of host community made up of primates (adults),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+PbAH4,Proportion of host community made up of cattle (adults),0.024 ; 0.024,0.02 ; 0.02,0.043 ; 0.043,0.024 ; 0.024,0.024 ; 0.024
+E,Mean # of eggs per adult,1090 ; 1090,1090 ; 1090,1090 ; 1090,1090 ; 1090,1090 ; 1090
+Sl,Survival probabilities from egg to feeding larva,0.05 ; 0.25,0.05 ; 0.25,0.05 ; 0.25,0.05 ; 0.25,0.05 ; 0.25
+Sn,Survival probabilities from larva to feeding nymph,0.05 ; 0.25,0.05 ; 0.25,0.05 ; 0.25,0.05 ; 0.25,0.05 ; 0.25
+Sa,Survival probabilities from nymph to feeding adult,0.15 ; 0.25,0.15 ; 0.25,0.15 ; 0.25,0.15 ; 0.25,0.15 ; 0.25
+CllH1,# of larvae co-feeding with a larva (Host 1),0.01 ; 0.49,0.01 ; 0.49,0.01 ; 0.49,0.01 ; 0.49,0.01 ; 0.49
+CnlH1,# of nymphs co-feeding with a larva (Host 1),0.01 ; 0.52,0.01 ; 0.52,0.01 ; 0.52,0.01 ; 0.52,0.01 ; 0.52
+CalH1,# of adults co-feeding with a larva (Host 1),0,0,0,0,0
+ClnH1,# of larvae co-feeding with a nymph (Host 1),0.01 ; 0.49,0.01 ; 0.49,0.01 ; 0.49,0.01 ; 0.49,0.01 ; 0.49
+CnnH1,# of nymphs co-feeding with a nymph (Host 1),0.01 ; 0.55,0.01 ; 0.55,0.01 ; 0.55,0.01 ; 0.55,0.01 ; 0.55
+CanH1,# of adults co-feeding with a nymph (Host 1),0,0,0,0,0
+ClaH1,# of larvae co-feeding with an adult (Host 1),0,0,0,0,0
+CnaH1,# of nymphs co-feeding with an adult (Host 1),0,0,0,0,0
+CaaH1,# of adults co-feeding with an adult (Host 1),0,0,0,0,0
+CllH2,# of larvae co-feeding with a larva (Host 2),0.01 ; 3.26,0.01 ; 3.26,0.01 ; 3.26,0.01 ; 3.26,0.01 ; 3.26
+CnlH2,# of nymphs co-feeding with a larva (Host 2),0.01 ; 0.12,0.01 ; 0.12,0.01 ; 0.12,0.01 ; 0.12,0.01 ; 0.12
+CalH2,# of adults co-feeding with a larva (Host 2),0.01 ; 0.039,0.01 ; 0.039,0.01 ; 0.039,0.01 ; 0.039,0.01 ; 0.039
+ClnH2,# of larvae co-feeding with a nymph (Host 2),0.01 ; 0.71,0.01 ; 0.71,0.01 ; 0.71,0.01 ; 0.71,0.01 ; 0.71
+CnnH2,# of nymphs co-feeding with a nymph (Host 2),0.01 ; 0.16,0.01 ; 0.16,0.01 ; 0.16,0.01 ; 0.16,0.01 ; 0.16
+CanH2,# of adults co-feeding with a nymph (Host 2),0.01 ; 0.053,0.01 ; 0.053,0.01 ; 0.053,0.01 ; 0.053,0.01 ; 0.053
+ClaH2,# of larvae co-feeding with an adult (Host 2),0.01 ; 0.22,0.01 ; 0.22,0.01 ; 0.22,0.01 ; 0.22,0.01 ; 0.22
+CnaH2,# of nymphs co-feeding with an adult (Host 2),0.01 ; 0.024,0.01 ; 0.024,0.01 ; 0.024,0.01 ; 0.024,0.01 ; 0.024
+CaaH2,# of adults co-feeding with an adult (Host 2),0.01 ; 0.014,0.01 ; 0.014,0.01 ; 0.014,0.01 ; 0.014,0.01 ; 0.014
+CllH3,# of larvae co-feeding with a larva (Host 3),0.01 ; 1.06,0.01 ; 1.06,0.01 ; 1.06,0.01 ; 1.06,0.01 ; 1.06
+CnlH3,# of nymphs co-feeding with a larva (Host 3),0.01; 0.30,0.01; 0.30,0.01; 0.30,0.01; 0.30,0.01; 0.30
+CalH3,# of adults co-feeding with a larva (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+ClnH3,# of larvae co-feeding with a nymph (Host 3),0.01 ; 1.07,0.01 ; 1.07,0.01 ; 1.07,0.01 ; 1.07,0.01 ; 1.07
+CnnH3,# of nymphs co-feeding with a nymph (Host 3),0.01 ; 0.38,0.01 ; 0.38,0.01 ; 0.38,0.01 ; 0.38,0.01 ; 0.38
+CanH3,# of adults co-feeding with a nymph (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+ClaH3,# of larvae co-feeding with an adult (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+CnaH3,# of nymphs co-feeding with an adult (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+CaaH3,# of adults co-feeding with an adult (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+CllH4,# of larvae co-feeding with a larva (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+CnlH4,# of nymphs co-feeding with a larva (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+CalH4,# of adults co-feeding with a larva (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+ClnH4,# of larvae co-feeding with a nymph (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+CnnH4,# of nymphs co-feeding with a nymph (Host 3),0.01 ; 0.1,0.01 ; 0.1,0.01 ; 0.1,0.01 ; 0.1,0.01 ; 0.1
+CanH4,# of adults co-feeding with a nymph (Host 3),0.01 ; 1.87,0.01 ; 1.87,0.01 ; 1.87,0.01 ; 1.87,0.01 ; 1.87
+ClaH4,# of larvae co-feeding with an adult (Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+CnaH4,# of nymphs co-feeding with an adult (Host 3),0.01 ; 0.4,0.01 ; 0.4,0.01 ; 0.4,0.01 ; 0.4,0.01 ; 0.4
+CaaH4,# of adults co-feeding with an adult (Host 3),0.01 ; 0.87,0.01 ; 0.87,0.01 ; 0.87,0.01 ; 0.87,0.01 ; 0.87
+NlhH1,# of larvae on competent host (Host 1),0.01 ; 1.19,0.01 ; 1.19,0.01 ; 1.19,0.01 ; 1.19,0.01 ; 1.19
+NnhH1,# of nymphs on competent host(Host 1),0.01 ; 2.63,0.01 ; 2.63,0.01 ; 2.63,0.01 ; 2.63,0.01 ; 2.63
+NahH1,# of adults on competent host(Host 1),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+NlhH2,# of larvae on competent host (Host 2),0.01 ; 10.58,0.01 ; 10.58,0.01 ; 10.58,0.01 ; 10.58,0.01 ; 10.58
+NnhH2,# of nymphs on competent host(Host 2),0.01 ; 2.60,0.01 ; 2.60,0.01 ; 2.60,0.01 ; 2.60,0.01 ; 2.60
+NahH2,# of adults on competent host(Host 2),0.01 ; 0.34,0.01 ; 0.34,0.01 ; 0.34,0.01 ; 0.34,0.01 ; 0.34
+NlhH3,# of larvae on competent host(Host 3),0.01 ; 5.52,0.01 ; 5.52,0.01 ; 5.52,0.01 ; 5.52,0.01 ; 5.52
+NnhH3,# of nymphs on competent host(Host 3),0.01 ; 1.58,0.01 ; 1.58,0.01 ; 1.58,0.01 ; 1.58,0.01 ; 1.58
+NahH3,# of adults on competent host(Host 3),0 ; 0,0 ; 0,0 ; 0,0 ; 0,0 ; 0
+Dl,Days of attachment of larva,2 ; 5,2 ; 5,2 ; 5,2 ; 5,2 ; 5
+Dn,Days of attachment of nymph,7 ; 8,7 ; 8,7 ; 8,7 ; 8,7 ; 8
+Da,Days of attachment of adult,10 ; 21,10 ; 21,10 ; 21,10 ; 21,10 ; 21
+IH1,Systemic infection duration in host (Host 1),2 ; 7,2 ; 7,2 ; 7,2 ; 7,2 ; 7
+IH2,Systemic infection duration in host (Host 2),2 ; 7,2 ; 7,2 ; 7,2 ; 7,2 ; 7
+IH3,Systemic infection duration in host (Host 3),7 ; 12,7 ; 12,7 ; 12,7 ; 12,7 ; 12
+TT,Efficiency from tick to tick ,0.01 ; 1 ,0.01 ; 1 ,0.01 ; 1 ,0.01 ; 1 ,0.01 ; 1 
+Pl,Efficiency from competent host to larva,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9
+Pn,Efficiency from competent host to nymph,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9
+Pa,Efficiency from competent host to adult,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9,0.6 ; 0.9
+QlH1,Efficiency from larva to competent host (Host 1),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+QnH1,Efficiency from nymph to competent host (Host 1),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+QaH1,Efficiency from adult to competent host (Host 1),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+QlH2,Efficiency from larva to competent host (Host 2),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+QnH2,Efficiency from nymph to competent host (Host 2),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+QaH2,Efficiency from adult to competent host (Host 2),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+QlH3,Efficiency from larva to competent host (Host 3),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+QnH3,Efficiency from nymph to competent host (Host 3),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+QaH3,Efficiency from adult to competent host (Host 3),0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75,0.3 ; 0.75
+Ra,Efficiency from adult to egg,0.01 ; 0.1,0.01 ; 0.1,0.01 ; 0.1,0.01 ; 0.1,0.01 ; 0.1
+Hc,Fraction of blood meals on hosts competent for systemic and non-systemic transmission ,0.5 ; 0.9,0.5 ; 0.9,0.5 ; 0.9,0.5 ; 0.9,0.5 ; 0.9
+rL,proportion increase in tick abundance and burden with increase 1 cattle per km2 ,0.020 ; 0.032,0.020 ; 0.032,0.020 ; 0.032,0.020 ; 0.032,0.020 ; 0.032
+LD,cattle density (ind per km2),40.1 ; 40.1,60 ; 60,60 ; 60,44.64 ; 44.64,70 ; 70
+Cs,Fraction of ticks feeding close enough for non-systemic transmission,0.1 ; 0.5,0.1 ; 0.5,0.1 ; 0.5,0.1 ; 0.5,0.1 ; 0.5
