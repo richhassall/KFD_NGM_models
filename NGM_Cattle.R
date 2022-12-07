@@ -12,7 +12,7 @@
 ####______________________________________####
 #### 1. Load required libraries and files ####
 ####______________________________________####
- 
+  
 library(Deriv)
 library(popbio) 
 library(stringr) 
