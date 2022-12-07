@@ -1,6 +1,6 @@
 # KFD_R0_NGM_models
 
-This repository containes the R code and parameters needed to run next generation matrix models developed for Kyasanur Forest Disease in India. 
+This repository contains the R code and parameters needed to run next generation matrix models developed for Kyasanur Forest Disease in India. 
 For more information see https://doi.org/10.1101/2022.10.17.512427 
 
 NGM_Cattle.R will run the model scaling tick abunadance and burden by cattle density.
