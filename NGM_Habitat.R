@@ -25,7 +25,7 @@ library(VGAM)
 
 
 ## wd and csv file ##
-
+ 
 params <- read.csv("./parameters/Parameters_scenarios_habitat.csv",stringsAsFactors = FALSE) ### load in csv with parameter ranges 
 
 
